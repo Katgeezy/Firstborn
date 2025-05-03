@@ -1,0 +1,24 @@
+h1{
+  color: red;
+}
+.blue{
+  color: blue;
+}
+body{
+  color: navy;
+}
+#name{
+  color: green;
+}
+.box{
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  margin: 50px;
+  border: 5px solid black;
+  background-color: lightblue;
+}
+
+html{
+  background-color: lightgray;
+}
